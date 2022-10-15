@@ -223,12 +223,12 @@ img {
   transition: opacity 500ms var(--cubic);
 }
 
-.backdrop__hidden {
+.backdrop--hidden {
   opacity: 0;
   pointer-events: none;
 }
 
-.backdrop__hidden .modal {
+.backdrop--hidden .modal {
   transform: translate(-50%, -50%) scale(0.1);
 }
 
