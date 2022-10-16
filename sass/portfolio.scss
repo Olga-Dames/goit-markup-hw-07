@@ -1,0 +1,16 @@
+@import 'variables.scss';
+@import 'normalize.scss';
+@import 'global.scss';
+@import 'placeholders.scss';
+@import 'utilities.scss';
+@import './page-header/page-header';
+@import './page-header/header-logo';
+@import './page-header/navigation';
+@import './page-header/contacts';
+@import './portfolio/filter';
+@import './portfolio/card-set';
+@import './footer/footer';
+@import './footer/footer-logo';
+@import './footer/footer-address';
+@import './footer/footer-links';
+@import './footer/footer-subscribe';
