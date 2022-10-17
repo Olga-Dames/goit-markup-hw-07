@@ -704,6 +704,7 @@ img {
 }
 
 .team__position {
+  margin-bottom: 16px;
   color: #757575;
   line-height: 1.71;
   font-size: 16px;
@@ -711,8 +712,7 @@ img {
 }
 
 .team__box {
-  padding-top: 30px;
-  padding-bottom: 16px;
+  padding: 30px 32px;
 }
 
 .team__member-name {
@@ -726,7 +726,6 @@ img {
   display: -webkit-inline-box;
   display: -ms-inline-flexbox;
   display: inline-flex;
-  margin-bottom: 30px;
 }
 .social-list__icon {
   width: 20px;
@@ -953,6 +952,6 @@ img {
   color: #FFFFFF;
 }
 
-.subscribe__send-icon {
+.subscribe__icon {
   margin-left: 10px;
 }/*# sourceMappingURL=main.css.map */

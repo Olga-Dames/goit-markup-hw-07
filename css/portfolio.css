@@ -204,7 +204,7 @@ img {
   list-style: none;
 }
 
-.subscribe__button, .filter__button {
+.subscribe__button {
   display: inline-block;
   cursor: pointer;
   border: none;
@@ -343,6 +343,12 @@ img {
 }
 
 .filter__button {
+  display: inline-block;
+  cursor: pointer;
+  border: none;
+  border-radius: 4px;
+  font-size: 16px;
+  text-align: center;
   padding: 6px 22px;
   min-width: 70px;
   font-family: "Roboto", sans-serif;
@@ -433,6 +439,7 @@ img {
   text-decoration: none;
   color: #212121;
   background: #FFFFFF;
+  border: 1px solid #EEEEEE;
   -webkit-transition: -webkit-box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
   transition: -webkit-box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
   transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
@@ -616,6 +623,6 @@ img {
   color: #FFFFFF;
 }
 
-.subscribe__send-icon {
+.subscribe__icon {
   margin-left: 10px;
 }/*# sourceMappingURL=portfolio.css.map */
