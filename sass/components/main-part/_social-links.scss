@@ -1,7 +1,6 @@
 .social-list {
   @extend %list;
   display: inline-flex;
-  margin-bottom: 30px;
 
   &__icon {
     width: 20px;
